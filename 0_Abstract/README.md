@@ -7,11 +7,17 @@ A wiper speed control system for an automotive wiper controls the operational sp
 
 ## Features
 
+- It should on the wiper when button is pressed once
+- It should off the wiper when button is pressed twice
+- It should remove excess water 
 
 
 
 
 ## Software Used
+
+- STM32Cube
+- Qemu
 
 
 
