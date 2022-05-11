@@ -14,12 +14,16 @@ There are two types of requirements:
 
 
 
+
+
 # Low Level Requirements
 
 | ID | Description | Status |
 | -------- | -------- | ---------- |
 | LLR_1 | Frequency should change on user inputs | Implemented |
 | LL_2 | Direction of wipers should be change | Implemented |
+
+
 
 
 
@@ -51,11 +55,14 @@ There are two types of requirements:
 
 
 
+
+
 # 4W's and 1 H's
 
 ## When 
 - Anyone who wishes to drive safely in the rain should have a wiper system installed.
-- 
+
+
 
 ## Why
 - It is a advanced system that may be used to remove water from a car's windshield.
@@ -63,7 +70,9 @@ There are two types of requirements:
 
 ## Who
 - Anyone who wishes to drive safely in all types of weather
-- 
+
+
+
 
 ## Where
 - Can be used in cars
