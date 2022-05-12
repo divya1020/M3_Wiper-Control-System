@@ -52,12 +52,14 @@ There are two types of requirements:
 - Delicate
 - Can be replaced by technology
 
+![swot](https://user-images.githubusercontent.com/88372627/168010208-a3f11710-1114-40a1-8000-f1c6db460897.png)
 
 
 
 
 
 # 4W's and 1 H's
+
 
 ## When 
 - Anyone who wishes to drive safely in the rain should have a wiper system installed.
