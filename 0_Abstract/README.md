@@ -22,5 +22,5 @@ The operational speed of a vehicle wiper is controlled by a wiper speed control 
 
 
 
-## Components Used
+
 
