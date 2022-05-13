@@ -6,6 +6,7 @@
 
 
 
+![block diagram](https://user-images.githubusercontent.com/88372627/168314279-75d4c5ef-5161-4f9d-88f3-3dd4111e5313.png)
 
 
 
