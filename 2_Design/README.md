@@ -6,7 +6,6 @@
 
 
 
-## State Transition Diagram
 
 
 
